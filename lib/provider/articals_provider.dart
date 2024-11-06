@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:untitled/services/articales_services.dart';
+import 'package:untitled/services/tesla_articales_services.dart';
 
 import '../model/artiicles_model.dart';
 
